@@ -1,0 +1,24 @@
+/*
+Theme Name: Brickstone
+Text Domain: brickstone
+Version: 1.0
+Requires at least: 4.7
+Requires PHP: 7.4.21
+Description: Brickstone template
+Tags: brickstone, template
+Author: Alex-K
+Author URI: https://t.me/person_z/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+All files, unless otherwise stated, are released under the GNU General Public
+License version 2.0 (http://www.gnu.org/licenses/gpl-2.0.html)
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned
+with others.
+*/
+
+.main-nav__list li a {
+    color: #E7BB90 !important;
+}
